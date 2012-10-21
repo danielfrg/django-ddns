@@ -1,0 +1,450 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"setPassword"
+			],
+			[
+				"enc",
+				"encrypt"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"txtE",
+				"txtEmailTo"
+			],
+			[
+				"txt",
+				"txtEmail"
+			],
+			[
+				"setin",
+				"settings"
+			],
+			[
+				"to",
+				"toaddrs"
+			],
+			[
+				"nav",
+				"navbar-inner"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git ",
+				"Git: Commit history"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git coo",
+				"Git: Commit history"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git  push",
+				"Git: Push"
+			],
+			[
+				"indenta",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"set pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"prefe",
+				"Preferences: Browse Packages"
+			],
+			[
+				"conve",
+				"Indentation: Convert to Tabs"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Daniel/Documents/R/outcome-of-care-measures.csv",
+		"/C/Users/Daniel/Documents/R/hospital-data.csv",
+		"/C/Users/Daniel/Documents/projects/django/daniel/__init__.py",
+		"/C/Users/Daniel/Documents/projects/newtask/newtask.py",
+		"/C/Users/Daniel/Documents/projects/newtask/setup.py",
+		"/C/Users/Daniel/Documents/projects/newtask/README.md",
+		"/C/Users/Daniel/Documents/projects/newtask/.gitignore",
+		"/C/Users/Daniel/Documents/projects/newtask/settings.py",
+		"/C/Users/Daniel/Documents/projects/newtask/mail.py",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Daniel/Documents/projects/newtask/newtask.sublime-project",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/C/Users/Daniel/Documents/projects/newtask/test.py",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Daniel/.ssh/github_rsa.pub",
+		"/C/cygwin/home/Daniel/.ssh/id_rsa.pub",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/Default/exec.py",
+		"/C/Users/Daniel/Documents/python/newtask/settings.py",
+		"/C/Users/Daniel/Documents/python/newtask/.gitignore",
+		"/C/Users/Daniel/Documents/python/newtask/newtask.sublime-project",
+		"/C/Users/Daniel/Documents/python/newtask/settings.cfg",
+		"/C/Users/Daniel/Documents/python/test.py",
+		"/C/Users/Daniel/Documents/python/newtask/setup.py",
+		"/C/Users/Daniel/Documents/python/newtask/dist/settings.cfg",
+		"/C/Users/Daniel/Documents/python/newtask/newtask.py",
+		"/C/Users/Daniel/Documents/python/newtask/mail.py",
+		"/C/Users/Daniel/Documents/python/newtask/test.py",
+		"/C/Users/Daniel/Documents/python/newtask/settings",
+		"/C/Users/Daniel/Downloads/software/MATLAB R2012b/MATLAB R2012b crack/readme.txt",
+		"/C/Users/Daniel/Downloads/readme.txt",
+		"/C/Users/Daniel/Downloads/ver.txt",
+		"/C/Users/Daniel/Documents/R/getmonitor-testoutput1.txt",
+		"/C/Users/Daniel/Documents/R/specdata/001.csv",
+		"/C/Users/Daniel/Documents/python/newtask/main.py",
+		"/C/Users/Daniel/Desktop/test.R",
+		"/C/Users/Daniel/Dropbox/Documents/UTD/Bussiness Intelligence/Project 2/report.txt",
+		"/C/Users/Daniel/Documents/python/newtask/.git/config",
+		"/C/Users/Daniel/Documents/python/NewTask/main.py",
+		"/C/Users/Daniel/Documents/python/NewTask/mail.py",
+		"/C/Users/Daniel/Documents/python/emailer/test.py",
+		"/C/Users/Daniel/Documents/python/emailer/mail.py",
+		"/C/Users/Daniel/Documents/python/emailer/main.py",
+		"/C/Users/Daniel/Downloads/README.txt",
+		"/C/Users/Daniel/Desktop/samples/StyleEditor/STCStyleEditor.py",
+		"/C/Users/Daniel/Documents/python/emailer/2.py",
+		"/C/cygwin/home/Daniel/.bashrc",
+		"/C/cygwin/home/Daniel/.inputrc",
+		"/C/cygwin/home/Daniel/.bash_profile",
+		"/C/cygwin/home/Daniel/.profile",
+		"/C/Users/Daniel/Documents/python/alisases.txt",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/R Tools/R.sublime-build",
+		"/C/Users/Daniel/Desktop/a.R",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/Ruby/Ruby.sublime-build",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Matlab/Default.sublime-commands",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Matlab/Main.sublime-menu",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/Main.sublime-menu",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/Default (Windows).sublime-keymap",
+		"/C/Users/Daniel/Documents/R/test.R",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/User/Matlab.sublime-build",
+		"/C/Users/Daniel/Desktop/a.matlab",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Daniel/Documents/python/.bashrc",
+		"/C/Users/Daniel/Documents/python/.bash_profile",
+		"/C/Users/Daniel/Downloads/setuptools-0.6c11/setup.py",
+		"/C/user.js",
+		"/C/Users/Daniel/Dropbox/Documents/UTD/Bussiness Intelligence/P1/association (2).csv",
+		"/C/Users/Daniel/Dropbox/Documents/UTD/Bussiness Intelligence/P1/association.csv",
+		"/C/cygwin/home/Daniel/projects/django/mysite/mysite/urls.py",
+		"/C/cygwin/home/Daniel/projects/django/daniel/main/views.py",
+		"/C/cygwin/home/Daniel/projects/django/daniel/urls.py",
+		"/C/Users/Daniel/Downloads/basic.ics",
+		"/C/cygwin/home/Daniel/projects/django/daniel/main/urls.py",
+		"/C/cygwin/home/Daniel/projects/django/daniel/main/models.py",
+		"/C/cygwin/home/Daniel/projects/django/mysite/main/urls.py",
+		"/C/cygwin/home/Daniel/projects/django/daniel/settings.py",
+		"/C/cygwin/home/Daniel/projects/django/daniel/wsgi.py",
+		"/C/cygwin/home/Daniel/projects/django/daniel/__init__.py",
+		"/C/cygwin/home/Daniel/projects/django/daniel/manage.py",
+		"/C/cygwin/home/Daniel/projects/django/mysite/static/css/index.styl",
+		"/C/cygwin/home/Daniel/projects/django/mysite/apps/media/templates/media/index.jade",
+		"/C/cygwin/home/Daniel/projects/django/mysite/static/css/blog.styl",
+		"/C/cygwin/home/Daniel/projects/django/mysite/apps/blog/templates/blog/index.jade",
+		"/C/cygwin/home/Daniel/projects/django/daniel/templates/index.html",
+		"/C/cygwin/home/Daniel/projects/django/mysite/static/css/media.styl",
+		"/C/cygwin/home/Daniel/projects/django/mysite/manage.py",
+		"/C/cygwin/home/Daniel/projects/django/mysite/main/templates/index.jade",
+		"/C/cygwin/home/Daniel/projects/django/mysite/main/templates/navbar.jade",
+		"/C/cygwin/home/Daniel/projects/django/mysite/static/css/media.css",
+		"/C/cygwin/home/Daniel/projects/django/mysite/mysite/settings.py",
+		"/C/cygwin/home/Daniel/projects/django/mysite/apps/media/urls.py",
+		"/C/cygwin/home/Daniel/projects/django/mysite/apps/media/views.py",
+		"/C/cygwin/home/Daniel/projects/django/mysite/apps/blog/views.py",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/C/cygwin/home/Daniel/projects/django/mysite/main/views.py",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/cygwin/home/Daniel/projects/django/mysite/static/css/royalslider-default.css",
+		"/C/cygwin/home/Daniel/projects/django/mysite/static/css/royalslider.css",
+		"/C/cygwin/home/Daniel/projects/django/mysite/static/js/jquery.royalslider.min.js",
+		"/C/cygwin/home/Daniel/projects/django/mysite/apps/blog/urls.py",
+		"/C/cygwin/home/Daniel/projects/django/mysite/apps/blog/templates/blog/index.html",
+		"/C/cygwin/home/Daniel/projects/django/mysite/static/css/blog.less",
+		"/C/cygwin/home/Daniel/projects/django/mysite/apps/blog/templates/blog/index-blog.jade",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/User/Jade.sublime-build",
+		"/C/cygwin/home/Daniel/projects/django/mysite/apps/blog/templates/blog/index-blog.html",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/Jade/Jade.sublime-build",
+		"/C/cygwin/home/Daniel/projects/django/mysite/static/css/blog.css",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/Stylus/Stylus.sublime-build",
+		"/C/Users/Daniel/Downloads/blog.less",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/Stylus/Stylus.tmLanguage",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/cygwin/home/Daniel/projects/django/mysite/apps/blog/templates/blog/post.html",
+		"/C/cygwin/home/Daniel/projects/ip.py",
+		"/C/Users/Daniel/Dropbox/Public/ip.py",
+		"/C/cygwin/home/Daniel/projects/django/mysite/apps/blog/models.py",
+		"/C/cygwin/home/Daniel/projects/django/mysite/apps/blog/admin.py",
+		"/C/cygwin/home/Daniel/projects/django/mysite/static/js/textarea_tinymce.js",
+		"/C/cygwin/home/Daniel/projects/django/mysite/static/js/textarea.js",
+		"/C/cygwin/home/Daniel/projects/django/mysite/static/js/bootstrap.min.js",
+		"/C/cygwin/home/Daniel/projects/django/mysite/static/js/jquery.min.js",
+		"/C/cygwin/home/Daniel/projects/django/mysite/static/js/jquery.js",
+		"/C/cygwin/home/Daniel/projects/django/mysite/mysite/admin.py",
+		"/C/cygwin/home/Daniel/projects/django/mysite/main/templates/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"30-Day Death",
+			" = (",
+			" = ",
+			"if os.name == \"nt\":",
+			"Dialog",
+			"btnSend",
+			"OnKeyUP",
+			"size(",
+			"size",
+			"Form",
+			".ico",
+			"png",
+			".ico",
+			"ico",
+			"btn1",
+			"btn2",
+			"st",
+			"hbox1",
+			"hbox",
+			"mailer",
+			")\n",
+			"tbIcon",
+			"alias",
+			"user",
+			"log",
+			"login",
+			"doc",
+			"docu",
+			"admin",
+			"atemplates",
+			"template",
+			"conver",
+			"convert_tabs",
+			"inden"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.git":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": true
+}
