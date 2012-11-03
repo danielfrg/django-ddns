@@ -1,3 +1,5 @@
+#Python
 *.py[co]
 
+# Mr Developer
 *.sublime*
